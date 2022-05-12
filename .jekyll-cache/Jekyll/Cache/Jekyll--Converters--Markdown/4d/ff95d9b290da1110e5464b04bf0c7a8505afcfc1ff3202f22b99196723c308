@@ -1,4 +1,4 @@
-I"'<h1 id="heading-1">Heading 1</h1>
+I"%'<h1 id="heading-1">Heading 1</h1>
 
 <h2 id="heading-2">Heading 2</h2>
 
@@ -92,7 +92,7 @@
 
     
       <input type="text" name="_gotcha" style="display:none" />
-      <input type="hidden" name="_subject" value="Alembic submission from Contact" />
+      <input type="hidden" name="_subject" value="PEOPLE 3000 Radiocarbon Database submission from Contact" />
       <input type="hidden" name="_next" value="/thanks/" />
     
   </fieldset>
