@@ -1,0 +1,27 @@
+I"*<div style="text-align:center;">
+<a class="button" href="https://github.com/daviddarnes/alembic" style="background: #EF476F">Download the dataset</a>
+ <a class="button" href="https://buymeacoffee.com/daviddarnes#support" style="background: #FFC43D">Submit your data</a>
+ </div>
+
+<p>Comprised of over 170,000 dates from all across the world, the PEOPLE 3000
+Radiocarbon Database (P3k14C) is the largest and most geographically complete
+dataset of global archaeological radiocarbon (¹⁴C) dates ever constructed.
+With each date having been collected and cleaned according to a rigorous,
+unified protocol, P3k14C presents a new standard for leveraging the potential 
+of dates-as-data to study the evolution of past human societies. <a href="https://www.nature.com/articles/s41597-022-01118-7">See the
+whitepaper.</a></p>
+
+<p><img src="/assets/map.png" alt="Global map showing locations of all radiocarbon records" /></p>
+
+<h2 id="submit-your-data">Submit your data</h2>
+<p>Have some radiocarbon dates that aren’t in P3k14C? We want to add them! <a href="/submit/">Submit
+your data</a> now to increase the dissemination of your work, fill in the gaps, 
+and contribute to the future of how we understand ourselves and our ancestors.</p>
+
+<h2 id="about">About</h2>
+<p>The PEOPLE 3000 Radiocarbon Database is a project of the <a href="https://pastglobalchanges.org/science/wg/people-3000/intro">Paleoclimate and the
+Peopling of the Earth 
+(PEOPLE 3000)</a> 
+working group and is supported by the generosity of 
+<a href="https://pastglobalchanges.org/">Past Global Changes</a>.</p>
+:ET

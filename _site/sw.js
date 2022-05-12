@@ -1,8 +1,8 @@
-const version = '20220512182145';
+const version = '20220512184913';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/general/2016/08/29/example-post-three/","/history/external%20sources/2016/08/28/example-post-two/","/general/external%20sources/2016/08/27/example-post-one/","/categories/","/elements/","/blog/","/","/manifest.json","/offline/","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/feed.xml","/assets/styles.css.map","/assets/logos/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/general/2016/08/29/example-post-three/","/history/external%20sources/2016/08/28/example-post-two/","/general/external%20sources/2016/08/27/example-post-one/","/categories/","/download/","/elements/","/blog/","/","/manifest.json","/offline/","/assets/search.json","/search/","/assets/styles.css","/submit/","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/feed.xml","/assets/styles.css.map","/assets/logos/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
