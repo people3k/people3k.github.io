@@ -36,7 +36,7 @@ plugins:
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
-paginate_path: blog/page:num # jekyll-paginate > blog page
+paginate_path: news/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
   username: DavidDarnes # jekyll-seo-tag > Owners twitter username
@@ -65,9 +65,9 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "The latest updates for the People 3000 Radiocarbon Database" # The post list page content
     feature_text: |
-      Welcome to the blog
+      Welcome to P3k14C news updates
     feature_image: "/assets/banner.jpg"
 
 # 6. Jekyll collections settings
@@ -127,8 +127,8 @@ navigation_header:
   url: /download/
 - title: Submit
   url: /submit/
-- title: Blog
-  url: /blog/
+- title: News
+  url: /news/
 - title: Search
   url: /search/
 
