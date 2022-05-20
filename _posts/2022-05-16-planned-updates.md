@@ -2,7 +2,7 @@
 title: "Anticipated release notes: Version 2022.06"
 categories:
 - Upcoming release notes
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "/assets/neakpointemple.jpg"
 ---
 
 The next upcoming version of P3k14C will be version 2022.06, set to release on 

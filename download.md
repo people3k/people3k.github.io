@@ -1,8 +1,6 @@
 ---
 title: Download
-feature_text: |
-  Download the People 3000 Radiocarbon Database
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/assets/wallofchina.jpg"
 excerpt: "Download the People 3000 Radiocarbon Database"
 aside: false
 ---

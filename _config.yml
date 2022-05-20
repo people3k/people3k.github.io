@@ -66,9 +66,7 @@ collections:
     title: Posts # Needed for Siteleaf
     output: true
     description: "The latest updates for the People 3000 Radiocarbon Database" # The post list page content
-    feature_text: |
-      Welcome to P3k14C news updates
-    feature_image: "/assets/banner.png"
+    feature_image: "/assets/sphinx.jpg"
 
 # 6. Jekyll collections settings
 defaults:

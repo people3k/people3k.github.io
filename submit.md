@@ -1,8 +1,7 @@
 ---
 title: Submit your data
 feature_text: |
-  Submit your data to be included in P3k14C 
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/assets/excavation.jpg"
 excerpt: "Submit your data to be included in P3k14C"
 aside: False
 ---
