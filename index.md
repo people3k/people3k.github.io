@@ -9,7 +9,7 @@ Radiocarbon Database (P3k14C) is the largest and most geographically complete
 dataset of global archaeological radiocarbon dates ever constructed."
 ---
 <div style="text-align:center;">
-{% include button.html text="Download the dataset" link="/download/" color="#EF4E22" %} {% include button.html text="Submit your data" link="https://buymeacoffee.com/daviddarnes#support" color="#F78A2B" %} </div>
+{% include button.html text="Download the dataset" link="/download/" color="#EF4E22" %} {% include button.html text="Submit your data" link="/submit/" color="#F78A2B" %} </div>
 
 Comprised of over 170,000 dates from all across the world, the PEOPLE 3000
 Radiocarbon Database (P3k14C) is the largest and most geographically complete
