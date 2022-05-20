@@ -14,7 +14,7 @@ Here, we can direct people on how to format their data properly to make things e
 To submit your data, we'll direct you to an external Google form:
 
 <div style="text-align:center;">
-{% include button.html text="Submit now" link="https://forms.gle/9Mw6tbkQU1BHwK4c9" color="#FFC43D" %} </div>
+{% include button.html text="Submit now" link="https://forms.gle/9Mw6tbkQU1BHwK4c9" color="#F78A2B" %} </div>
 
 
 

@@ -56,6 +56,14 @@ body {
     @include flex-direction(column);
     @include justify-content(center);
   }
+  h2 {
+    color: white;
+    text-shadow: 2px 2px 14px black;
+  }
+  p {
+    color: white;
+    text-shadow: 2px 2px 3px black;
+  }
 }
 
 .logo {
