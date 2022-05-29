@@ -114,6 +114,7 @@ PLATFORMS
 
 DEPENDENCIES
   alembic-jekyll-theme!
+  nokogiri (>= 1.13.6)
 
 BUNDLED WITH
    2.2.5
