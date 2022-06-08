@@ -163,6 +163,8 @@ navigation_header:
   url: /download/
 - title: Submit
   url: /submit/
+- title: New Page
+  url: /mynewpage/
 - title: News
   url: /news/
 - title: Search
