@@ -5,15 +5,33 @@ excerpt: "Download the People 3000 Radiocarbon Database"
 aside: false
 ---
 
-Here we can explain the structure of the data (scrubbed, fuzzed, graveyard,
-etc.), and explain how to access unfuzzed dates through tDAR.
-
-The People 3000 Radiocarbon Database (p3k14c) is hosted in association with the
-Digital Archaeological Record (tDAR). Downloading requires registration with
-tDAR.
-
 <div style="text-align:center;">
-{% include button.html text="Download version 2022.01 (redirects to tDAR)" 
-link="https://core.tdar.org/dataset/459164/p3k14c" color="#EF4E22" %} </div>
+{% include button.html text="Download version 2022.01 (latest)" 
+link="/data/p3k14c_2022.01.csv" color="#EF4E22" %} <br />
+<a href="#version-downloads" style="font-size: 11pt; text-decoration: underline;">
+    Download an older version
+</a>
+</div>
 
+**Note!** To protect against looting, dates for the United States, Canada, and
+the Guedes and Bocinsky (2018) database have had their precise coordinates 
+"fuzzed" to instead be the centroid of the encompassing county or
+other administrative subdivision. Archaeological professionals may [request
+access to the true-coordinates dataset](https://core.tdar.org/dataset/459172/p3k14c-scrubbed) through the Digital Archaeological Record
+(tDAR).
 
+# Usage
+
+Full details on each column/variable can be found in the 
+[code sheet](/codesheet/). All dates are uncalibrated. Consider working with the
+data using [our R package](https://github.com/people3k/p3k14c)! For more
+detailed information about the data's purpose, intended usage, our methods, and
+technical validation, check out [the whitepaper](https://www.nature.com/articles/s41597-022-01118-7).
+
+# Version downloads
+
+| **Version** | **Release date** |
+|-------------|--------------|
+| [p3k14c 2022.01](/data/p3k14c_2022.01.csv) | 27 January 2022 (latest) |
+
+<br />
