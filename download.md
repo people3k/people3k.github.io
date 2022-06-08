@@ -12,8 +12,6 @@ The People 3000 Radiocarbon Database (p3k14c) is hosted in association with the
 Digital Archaeological Record (tDAR). Downloading requires registration with
 tDAR.
 
-HERE IS SOME TEST TEXT!!!
-
 <div style="text-align:center;">
 {% include button.html text="Download version 2022.01 (redirects to tDAR)" 
 link="https://core.tdar.org/dataset/459164/p3k14c" color="#EF4E22" %} </div>

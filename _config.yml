@@ -19,27 +19,6 @@ contributors:
   - Claudio Latorre
   - Robert Kelly
 
-# Define the Contributors section here
-team_members:
--
-  image: https://darcybird.files.wordpress.com/2020/08/bird-darcy.jpg
-  name: Darcy Bird, MS, RPA
-  pronouns: they/she
-  title: Lead Data Steward
-  contact: darcy.bird@wsu.edu 
-- 
-  image: https://github.com/LuxMiranda/luxmiranda.github.io/blob/06b3292e4700130c2dd804f47793dd3517ce8db7/images/lux.png?raw=true
-  name: Lux Miranda, MS
-  pronouns: she/they
-  title: Data Steward
-  contact: lux@knights.ucf.edu
-- 
-  image: /assets/jacob.jpg
-  name: Jacob Freeman, PhD
-  pronouns: he/him
-  title: Project Advisor
-  contact: jacob.freeman@usu.edu
-
 # Site configuration
 # 1. Files excluded from Jekyll builds
 # 2. Installed Gems
@@ -163,8 +142,6 @@ navigation_header:
   url: /download/
 - title: Submit
   url: /submit/
-- title: New Page
-  url: /mynewpage/
 - title: News
   url: /news/
 - title: Search
