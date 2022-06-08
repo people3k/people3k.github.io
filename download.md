@@ -8,7 +8,7 @@ aside: false
 Here we can explain the structure of the data (scrubbed, fuzzed, graveyard,
 etc.), and explain how to access unfuzzed dates through tDAR.
 
-The People 3000 Radiocarbon Database (P3k14C) is hosted in association with the
+The People 3000 Radiocarbon Database (p3k14c) is hosted in association with the
 Digital Archaeological Record (tDAR). Downloading requires registration with
 tDAR.
 

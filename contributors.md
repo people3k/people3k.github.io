@@ -1,6 +1,6 @@
 ---
-title: The P3k14C Team
-excerpt: "P3k14C contributors"
+title: The p3k14c Team
+excerpt: "p3k14c contributors"
 aside: false
 ---
 

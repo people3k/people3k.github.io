@@ -2,7 +2,7 @@
 title: Submit your data
 feature_text: |
 feature_image: "/assets/excavation.jpg"
-excerpt: "Submit your data to be included in P3k14C"
+excerpt: "Submit your data to be included in p3k14c"
 aside: False
 ---
 

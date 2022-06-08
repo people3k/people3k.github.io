@@ -3,11 +3,11 @@ title: "Anticipated changes: Version 2022.06"
 categories:
 - anticipated-changes
 feature_image: "/assets/neakpointemple.jpg"
-excerpt: "The next upcoming version of P3k14C will be version 2022.06, set to 
+excerpt: "The next upcoming version of p3k14c will be version 2022.06, set to 
 release on 9 June 2022!"
 ---
 
-The next upcoming version of P3k14C will be version 2022.06, set to release on 
+The next upcoming version of p3k14c will be version 2022.06, set to release on 
 9 June 2022!
 
 
