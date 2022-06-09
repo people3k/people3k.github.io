@@ -49,7 +49,6 @@ th {
 }
 
 td {
-    font-size: 13pt;
     padding: 12px;
 }
 

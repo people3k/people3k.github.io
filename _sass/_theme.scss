@@ -463,3 +463,19 @@ pre code {
     overflow-x: scroll;
   }
 }
+
+:root {
+    font-size: 80%; // 0px                    ~ Mobile first
+    @include breakpoint(break-1) { // 640px   ~ Small tablet up
+      font-size: 85%;
+    }
+    @include breakpoint(break-2) { // 800px   ~ Large tablet up
+      font-size: 90%;
+    }
+    @include breakpoint(break-3) { // 1024px  ~ Desktop up
+      font-size: 95%;
+    }
+    @include breakpoint(break-4) { // 1600px  ~ Large desktop up
+      font-size: 100%;
+    }
+}

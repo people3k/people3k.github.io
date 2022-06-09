@@ -1,4 +1,4 @@
-I"a<h1 id="code-sheet">Code sheet</h1>
+I"L<h1 id="code-sheet">Code sheet</h1>
 
 <p>Below is an explanation for each variable/column in p3k14c.</p>
 
@@ -122,7 +122,6 @@ th {
 }
 
 td {
-    font-size: 13pt;
     padding: 12px;
 }
 
