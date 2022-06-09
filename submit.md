@@ -6,14 +6,6 @@ excerpt: "Submit your data to be included in p3k14c"
 aside: False
 ---
 
-NOTE: This website is under construction! The submission forms are not yet ready. If you're interested in having your data included, please email Lux Miranda with your enquiry at contact (at) luxmiranda (dot) com. 
-
-Here, we can direct people on how to format their data properly to make things easier for us. 
-
-To submit your data, we'll direct you to an external Google form:
-
-<div style="text-align:center;">
-{% include button.html text="Submit now" link="https://forms.gle/9Mw6tbkQU1BHwK4c9" color="#F78A2B" %} </div>
-
-
-
+Our data submission form is currently in the works! If you're interested in
+having your data included as part of p3k14c, please email us at 
+[steward@p3k14c.org](mailto:steward@p3k14c.org).
