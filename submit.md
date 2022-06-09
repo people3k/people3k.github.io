@@ -7,5 +7,4 @@ aside: False
 ---
 
 Our data submission form is currently in the works! If you're interested in
-having your data included as part of p3k14c, please email us at 
-[steward@p3k14c.org](mailto:steward@p3k14c.org).
+having your data included as part of p3k14c, please email Darcy Bird at darcy.bird@wsu.edu
