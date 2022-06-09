@@ -1,0 +1,134 @@
+I"a<h1 id="code-sheet">Code sheet</h1>
+
+<p>Below is an explanation for each variable/column in p3k14c.</p>
+
+<p>† indicates variables which have been collected directly from source datasets
+without any consolidation, cleaning, or verification. Use with discretion.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Column</strong></th>
+      <th><strong>Type</strong></th>
+      <th><strong>Description</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>LabID</strong></td>
+      <td>String</td>
+      <td>Lab identification code, unique to every date</td>
+    </tr>
+    <tr>
+      <td><strong>Age</strong></td>
+      <td>Integer</td>
+      <td>Radiocarbon age in <a href="https://en.wikipedia.org/wiki/Before_Present">years before present (BP)</a></td>
+    </tr>
+    <tr>
+      <td><strong>Error</strong></td>
+      <td>Integer</td>
+      <td>One sigma standard error of the radiocarbon age</td>
+    </tr>
+    <tr>
+      <td><strong>Material</strong>†</td>
+      <td>String</td>
+      <td>Dated material</td>
+    </tr>
+    <tr>
+      <td><strong>Taxa</strong>†</td>
+      <td>String</td>
+      <td>Taxonomic name for dated material</td>
+    </tr>
+    <tr>
+      <td><strong>d13C</strong>†</td>
+      <td>Float</td>
+      <td><a href="https://en.wikipedia.org/wiki/%CE%9413C">δ<sup>13</sup>C</a> istopic signature. Note that some datasets use “0” instead of NA or a blank cell</td>
+    </tr>
+    <tr>
+      <td><strong>Method</strong>†</td>
+      <td>String</td>
+      <td>The method of radiocarbon dating used, such as AMS or radiometric</td>
+    </tr>
+    <tr>
+      <td><strong>Long</strong></td>
+      <td>Float</td>
+      <td>Longitude in decimal degrees</td>
+    </tr>
+    <tr>
+      <td><strong>Lat</strong></td>
+      <td>Float</td>
+      <td>Latitude in decimal degrees</td>
+    </tr>
+    <tr>
+      <td><strong>LocAccuracy</strong></td>
+      <td>Integer</td>
+      <td>A general rating of the accuracy of a given date’s location, according to dataset authors and our own verification. Ranges from 0 (lowest accuracy) to 3 (highest accuracy): <br /> 0: No specific locational information / only date’s Country provided <br /> 1: Province/State (non-US) or county (US) locational information <br /> 2: Very close locational information (within 500m) <br /> 3: Exact location of site provided / data’s source collected personally</td>
+    </tr>
+    <tr>
+      <td><strong>Period</strong>†</td>
+      <td>String</td>
+      <td>Archaeological time period. Common in European datasets, generally uncommon elsewhere</td>
+    </tr>
+    <tr>
+      <td><strong>SiteID</strong>†</td>
+      <td>String</td>
+      <td>Site identification number. Very useful for US and Canadian sites, otherwise uncommon</td>
+    </tr>
+    <tr>
+      <td><strong>SiteName</strong>†</td>
+      <td>String</td>
+      <td>Site name, usually unique to each site within each country. Common in sites outside of North America</td>
+    </tr>
+    <tr>
+      <td><strong>Country</strong></td>
+      <td>String</td>
+      <td>The country in which the date was found</td>
+    </tr>
+    <tr>
+      <td><strong>Province</strong></td>
+      <td>String</td>
+      <td>The administrative subdivision in which the date was found</td>
+    </tr>
+    <tr>
+      <td><strong>Continent</strong></td>
+      <td>String</td>
+      <td>The continent on which the date was found</td>
+    </tr>
+    <tr>
+      <td><strong>Source</strong></td>
+      <td>String</td>
+      <td>The source dataset which provided the date</td>
+    </tr>
+    <tr>
+      <td><strong>Reference</strong>†</td>
+      <td>String</td>
+      <td>Full academic reference for the date, if available</td>
+    </tr>
+  </tbody>
+</table>
+
+<style>
+body {
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    padding: 12px;
+    color: white;
+    background-color: #EF4E22;
+}
+
+td {
+    font-size: 13pt;
+    padding: 12px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+</style>
+
+:ET

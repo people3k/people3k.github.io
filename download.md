@@ -13,12 +13,12 @@ link="/data/p3k14c_2022.01.csv" color="#EF4E22" %} <br />
 </a>
 </div>
 
-**Note!** To protect against looting, dates for the United States, Canada, and
+**Note!** To maintain legal compliance, dates for the United States, Canada, and
 the Guedes and Bocinsky (2018) database have had their precise coordinates 
-"fuzzed" to instead be the centroid of the encompassing county or
-other administrative subdivision. Archaeological professionals may [request
-access to the true-coordinates dataset](https://core.tdar.org/dataset/459172/p3k14c-scrubbed) through the Digital Archaeological Record
-(tDAR).
+obfuscated to instead be the centroid of the encompassing county/administrative
+subdivision. In general, this does not affect results for coarse-grained analysis.
+If your analysis requires greater precision, archaeological professionals 
+may [request access to the true-coordinates dataset](https://core.tdar.org/dataset/459172/p3k14c-scrubbed) through the Digital Archaeological Record (tDAR).
 
 # Usage
 

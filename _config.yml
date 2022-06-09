@@ -142,6 +142,8 @@ navigation_header:
   url: /download/
 - title: Submit
   url: /submit/
+- title: Code sheet
+  url: /codesheet/
 - title: News
   url: /news/
 - title: Search

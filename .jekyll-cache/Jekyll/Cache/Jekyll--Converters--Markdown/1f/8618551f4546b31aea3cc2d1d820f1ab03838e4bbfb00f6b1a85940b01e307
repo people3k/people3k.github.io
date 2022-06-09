@@ -1,4 +1,4 @@
-I"-<div style="text-align:center;">
+I"�<div style="text-align:center;">
 <a class="button" href="/data/p3k14c_2022.01.csv" style="background: #EF4E22">Download version 2022.01 (latest)</a>
  <br />
 <a href="#version-downloads" style="font-size: 11pt; text-decoration: underline;">
@@ -6,12 +6,12 @@
 </a>
 </div>
 
-<p><strong>Note!</strong> To protect against looting, dates for the United States, Canada, and
+<p><strong>Note!</strong> To maintain legal compliance, dates for the United States, Canada, and
 the Guedes and Bocinsky (2018) database have had their precise coordinates 
-“fuzzed” to instead be the centroid of the encompassing county or
-other administrative subdivision. Archaeological professionals may <a href="https://core.tdar.org/dataset/459172/p3k14c-scrubbed">request
-access to the true-coordinates dataset</a> through the Digital Archaeological Record
-(tDAR).</p>
+obfuscated to instead be the centroid of the encompassing county/administrative
+subdivision. In general, this does not affect results for coarse-grained analysis.
+If your analysis requires greater precision, archaeological professionals 
+may <a href="https://core.tdar.org/dataset/459172/p3k14c-scrubbed">request access to the true-coordinates dataset</a> through the Digital Archaeological Record (tDAR).</p>
 
 <h1 id="usage">Usage</h1>
 
