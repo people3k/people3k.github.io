@@ -1,11 +1,11 @@
 ---
-title: Code sheet
+title: Codebook
 feature_image:
 excerpt: "Explanation of variables for p3k14c"
 aside: false
 ---
 
-# Code sheet
+# Codebook
 
 Below is an explanation for each variable/column in p3k14c.
 
@@ -35,9 +35,6 @@ without any consolidation, cleaning, or verification. Use with discretion.
 
 
 <style>
-body {
-}
-
 table {
     width: 100%;
 }

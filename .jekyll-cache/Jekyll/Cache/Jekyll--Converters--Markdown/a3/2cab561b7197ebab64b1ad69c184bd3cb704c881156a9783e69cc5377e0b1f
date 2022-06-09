@@ -1,4 +1,4 @@
-I"˜<div style="text-align:center;">
+I"d<div style="text-align:center;">
 <a class="button" href="/data/p3k14c_2022.01.csv" style="background: #EF4E22">Download version 2022.01 (latest)</a>
  <br />
 <a href="#version-downloads" style="font-size: 11pt; text-decoration: underline;">
@@ -39,4 +39,25 @@ technical validation, check out <a href="https://www.nature.com/articles/s41597-
 </table>
 
 <p><br /></p>
+
+<style>
+table {
+    width: 100%;
+}
+
+th {
+    padding: 12px;
+    color: white;
+    background-color: #EF4E22;
+}
+
+td {
+    padding: 12px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+</style>
+
 :ET

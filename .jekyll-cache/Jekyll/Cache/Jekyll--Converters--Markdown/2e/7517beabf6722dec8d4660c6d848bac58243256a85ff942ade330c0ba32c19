@@ -1,4 +1,4 @@
-I"L<h1 id="code-sheet">Code sheet</h1>
+I"><h1 id="codebook">Codebook</h1>
 
 <p>Below is an explanation for each variable/column in p3k14c.</p>
 
@@ -108,9 +108,6 @@ without any consolidation, cleaning, or verification. Use with discretion.</p>
 </table>
 
 <style>
-body {
-}
-
 table {
     width: 100%;
 }

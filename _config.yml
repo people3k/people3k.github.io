@@ -82,7 +82,7 @@ collections:
   posts:
     title: News # Needed for Siteleaf
     output: true
-    description: "The latest updates for the People 3000 Radiocarbon Database" # The post list page content
+    description: "" # The post list page content
     feature_image: "/assets/sphinx.jpg"
 
 # 6. Jekyll collections settings
@@ -142,8 +142,12 @@ navigation_header:
   url: /download/
 - title: Submit
   url: /submit/
-- title: Code sheet
-  url: /codesheet/
+- title: Codebook
+  url: /codebook/
+- title: R package
+  url: /rpackage/
+- title: Contributors
+  url: /contributors/
 - title: News
   url: /news/
 - title: Search

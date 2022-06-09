@@ -35,3 +35,23 @@ technical validation, check out [the whitepaper](https://www.nature.com/articles
 | [p3k14c 2022.01](/data/p3k14c_2022.01.csv) | 27 January 2022 (latest) |
 
 <br />
+
+<style>
+table {
+    width: 100%;
+}
+
+th {
+    padding: 12px;
+    color: white;
+    background-color: #EF4E22;
+}
+
+td {
+    padding: 12px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+</style>
