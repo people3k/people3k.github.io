@@ -1,5 +1,5 @@
 ---
-title: Data contributors
+title: Data sources
 feature_image: "/assets/temple.jpg"
 excerpt: "p3k14c contributors"
 aside: false

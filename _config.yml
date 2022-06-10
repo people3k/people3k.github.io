@@ -1,24 +1,3 @@
-contributors:
-  - Darcy Bird
-  - Erick Robinson
-  - Marc Vander Linden
-  - R. Kyle Bocinsky
-  - Chris Nicholson
-  - Jose M. Capriles
-  - Judson Finley
-  - Eugenia Gayo
-  - Adolfo Gil
-  - Jade D'Alpoim Guedes
-  - Julie Hogarth
-  - Andrea Kay
-  - Emma Loftus
-  - Umberto Lombardo
-  - Madeline Mackie
-  - Alessio Palmisano
-  - Steinar Solheim
-  - Claudio Latorre
-  - Robert Kelly
-
 # Site configuration
 # 1. Files excluded from Jekyll builds
 # 2. Installed Gems
@@ -146,8 +125,8 @@ navigation_header:
   url: /codebook/
 - title: R package
   url: /rpackage/
-- title: Contributors
-  url: /contributors/
+- title: Sources
+  url: /sources/
 - title: News
   url: /news/
 - title: Search
