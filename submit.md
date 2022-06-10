@@ -50,7 +50,8 @@ Ready to submit? <br><br>
 
 ### Questions?
 If you have any questions, feel free to email the p3k14c data stewardship team
-at [p3k14c@gmail.com](mailto:p3k14c@gmail.com). We'll get back to you as 
+at [steward@p3k14c.org](mailto:steward@p3k14c.org). We'll get back to you as 
 soon as we can!
+
 
 
