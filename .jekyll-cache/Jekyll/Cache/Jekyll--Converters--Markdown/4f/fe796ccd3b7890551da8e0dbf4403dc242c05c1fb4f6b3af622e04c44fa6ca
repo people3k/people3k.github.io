@@ -1,0 +1,70 @@
+I"2<div style="text-align:center;">
+<a class="button" href="/data/p3k14c_2022.01.csv" style="background: #EF4E22">Download version 2022.06 (latest)</a>
+ <br />
+<a href="#version-downloads" style="font-size: 11pt; text-decoration: underline;">
+    Download an older version
+</a>
+</div>
+
+<p><strong>Note!</strong> To maintain legal compliance, dates for the United States, Canada, and
+the Guedes and Bocinsky (2018) database have had their precise coordinates 
+obfuscated to instead be the centroid of the encompassing county/administrative
+subdivision. In general, this does not affect results for coarse-grained analysis.
+If your analysis requires greater precision, archaeological professionals 
+may <a href="https://core.tdar.org/dataset/459172/p3k14c-scrubbed">request access to the true-coordinates dataset</a> through the Digital Archaeological Record (tDAR).</p>
+
+<h1 id="usage">Usage</h1>
+
+<p>Full details on each column/variable can be found in the 
+<a href="/codesheet/">code sheet</a>. All dates are uncalibrated. Consider working with the
+data using <a href="https://github.com/people3k/p3k14c">our R package</a>! For more
+detailed information about the data’s purpose, intended usage, our methods, and
+technical validation, check out <a href="https://www.nature.com/articles/s41597-022-01118-7">the whitepaper</a>.</p>
+
+<h1 id="version-downloads">Version downloads</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Version</strong></th>
+      <th><strong>Date</strong></th>
+      <th><strong>Notes</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="/data/p3k14c_2022.06.csv">p3k14c 2022.06</a></td>
+      <td>10 June 2022 (latest)</td>
+      <td>Release notes</td>
+    </tr>
+    <tr>
+      <td><a href="/data/p3k14c_2022.01.csv">p3k14c 2022.01</a></td>
+      <td>27 January 2022</td>
+      <td>Initial version</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<style>
+table {
+    width: 100%;
+}
+
+th {
+    padding: 12px;
+    color: white;
+    background-color: #EF4E22;
+}
+
+td {
+    padding: 12px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+</style>
+
+:ET

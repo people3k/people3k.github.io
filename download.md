@@ -6,7 +6,7 @@ aside: false
 ---
 
 <div style="text-align:center;">
-{% include button.html text="Download version 2022.01 (latest)" 
+{% include button.html text="Download version 2022.06 (latest)" 
 link="/data/p3k14c_2022.01.csv" color="#EF4E22" %} <br />
 <a href="#version-downloads" style="font-size: 11pt; text-decoration: underline;">
     Download an older version
@@ -30,9 +30,10 @@ technical validation, check out [the whitepaper](https://www.nature.com/articles
 
 # Version downloads
 
-| **Version** | **Release date** |
-|-------------|--------------|
-| [p3k14c 2022.01](/data/p3k14c_2022.01.csv) | 27 January 2022 (latest) |
+| **Version** | **Date** | **Notes** |
+|-------------|----------|-------------------|
+| [p3k14c 2022.06](/data/p3k14c_2022.06.csv) | 10 June 2022 (latest) | [Release notes](/release-notes/2022/06/10/release-notes/) |
+| [p3k14c 2022.01](/data/p3k14c_2022.01.csv) | 27 January 2022 | Initial version |
 
 <br />
 

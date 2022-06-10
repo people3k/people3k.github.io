@@ -123,10 +123,10 @@ navigation_header:
   url: /submit/
 - title: Codebook
   url: /codebook/
-- title: R package
-  url: /rpackage/
 - title: Sources
   url: /sources/
+- title: R package
+  url: /rpackage/
 - title: News
   url: /news/
 - title: Search
