@@ -7,7 +7,7 @@ aside: false
 
 <div style="text-align:center;">
 {% include button.html text="Download version 2022.06 (latest)" 
-link="/data/p3k14c_2022.01.csv" color="#EF4E22" %} <br />
+link="/data/p3k14c_2022.06.csv" color="#EF4E22" %} <br />
 <a href="#version-downloads" style="font-size: 11pt; text-decoration: underline;">
     Download an older version
 </a>
