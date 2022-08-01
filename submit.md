@@ -35,6 +35,7 @@ to 3 (highest accuracy) according to the following scale: <br>
     know what country it was found in, you should assign a _LocAccuracy_ of 0, 
     and so on.
 4. **Ensure all latitude/longitude coordinates are only in decimal format.**
+    Ensure that you use decimal PERIOD rather than decimal comma.
     If you need assistance with this step, let us know in your submission form.
 5. **Include Continent and (if possible) Country and Province information for each date**. 
     To assist with this step, we provide a [spreadsheet](/data/p3k14c_province-country-info.xlsx)
